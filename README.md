@@ -89,6 +89,16 @@ streamlit run app.py
 
 ---
 
+## 🚀 Live Demo
+
+Click the link below to try the live Streamlit app:
+
+👉 [Open the App in Streamlit](https://fraudsense-credit-card-fraud-detection-dvufdydff9dp92mgfoadkx.streamlit.app/)
+
+
+---
+
+
 ## Author
 
 Leila Ghasemzadeh
